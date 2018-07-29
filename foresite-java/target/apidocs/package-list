@@ -1,8 +1,0 @@
-org.dspace.foresite.cli
-org.dspace.foresite.engine
-org.dspace.foresite.engine.modules.atom
-org.dspace.foresite.engine.modules.jena
-org.dspace.foresite.engine.modules.rdfa
-org.dspace.foresite.exceptions
-org.dspace.foresite.model
-org.dspace.foresite.util
