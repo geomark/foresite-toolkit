@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3473e9a3-f365-4935-90d9-d20c742048b8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/Agent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/AggregatedResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/Aggregation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/DateParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREParserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREParserFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ORESerialiserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ORESerialiserFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ORETransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/OREVocabulary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/Predicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/Proxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/REMValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ReMSerialisation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ResourceMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/ResourceMapDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/Triple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/TripleSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/Vocab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/atom/AtomOREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/atom/AtomORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/cli/ForesiteCLI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/AgentJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/AggregatedResourceJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/AggregationJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/GraphResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/JenaOREConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/JenaOREFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/JenaOREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/JenaORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/ORE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/OREResourceJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/OREX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/ProxyJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/REMValidatorJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/ResourceMapJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/jena/TripleJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/rdfa/RDFaOREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/rdfa/RDFaORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/java/org/dspace/foresite/test/ORETest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/main/resources/rdfxml2rdfa.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/test/java/org/dspace/foresite/test/Behaviour09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/test/java/org/dspace/foresite/test/Compliance09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/src/test/java/org/dspace/foresite/test/Serialisation09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/tags/foresite-0.9/testcase-001.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/Agent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/AggregatedResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/Aggregation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/DateParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREParserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREParserFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ORESerialiserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ORESerialiserFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ORETransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/OREVocabulary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/Predicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/Proxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/REMValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ReMSerialisation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ResourceMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/ResourceMapDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/Triple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/TripleSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/Vocab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/atom/AtomOREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/atom/AtomORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/cli/ForesiteCLI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/AgentJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/AggregatedResourceJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/AggregationJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/GraphResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/JenaOREConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/JenaOREFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/JenaOREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/JenaORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/ORE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/OREResourceJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/OREX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/ProxyJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/REMValidatorJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/ResourceMapJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/jena/TripleJena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/rdfa/RDFaOREParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/rdfa/RDFaORESerialiser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/java/org/dspace/foresite/test/ORETest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/main/resources/rdfxml2rdfa.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/test/java/org/dspace/foresite/test/Behaviour09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/test/java/org/dspace/foresite/test/Compliance09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/src/test/java/org/dspace/foresite/test/Serialisation09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foresite-java/trunk/testcase-001.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="99" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="foresite-toolkit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foresite-toolkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foresite-toolkit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foresite-toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="foresite-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3473e9a3-f365-4935-90d9-d20c742048b8" name="Default" comment="" />
+      <created>1532859835241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532859835241</updated>
+      <workItem from="1532859840316" duration="74000" />
+      <workItem from="1532860203994" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="99" y="0" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962406" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
