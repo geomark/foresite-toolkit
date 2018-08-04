@@ -37,7 +37,6 @@ package org.dspace.foresite.model;
 
 import org.dspace.foresite.util.TripleSelector;
 import org.dspace.foresite.exceptions.OREException;
-
 import java.net.URI;
 import java.util.List;
 
@@ -59,6 +58,7 @@ import java.util.List;
  */
 public interface OREResource
 {
+
 	/**
 	 * Get the URI representing the resource
 	 * 
